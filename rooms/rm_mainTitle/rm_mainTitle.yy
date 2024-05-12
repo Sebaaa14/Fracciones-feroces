@@ -14,8 +14,8 @@
         {"$GMRInstance":"","%Name":"inst_4F3F40E4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4F3F40E4","objectId":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.4999995,"scaleY":6.4999995,"x":-128.0,"y":-96.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Logo","assets":[
-        {"$GMRSequenceGraphic":"","%Name":"graphic_3BD86E94","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3BD86E94","resourceType":"GMRSequenceGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"sequenceId":{"name":"seq_mainTitle","path":"sequences/seq_mainTitle/seq_mainTitle.yy",},"x":832.0,"y":800.0,},
-        {"$GMRSpriteGraphic":"","%Name":"graphic_28A8459E","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_28A8459E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.36666667,"scaleY":0.3185185,"spriteId":{"name":"title_main3","path":"sprites/title_main3/title_main3.yy",},"x":608.0,"y":288.0,},
+        {"$GMRSequenceGraphic":"","%Name":"graphic_3BD86E94","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3BD86E94","resourceType":"GMRSequenceGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"sequenceId":{"name":"seq_mainTitle","path":"sequences/seq_mainTitle/seq_mainTitle.yy",},"x":960.0,"y":800.0,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_28A8459E","animationSpeed":1.0,"colour":4280287231,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_28A8459E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.36666667,"scaleY":0.3185185,"spriteId":{"name":"title_main3","path":"sprites/title_main3/title_main3.yy",},"x":608.0,"y":288.0,},
       ],"depth":100,"effectEnabled":true,"effectType":"_filter_underwater","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Logo","properties":[
         {"name":"g_Distort1Speed","type":0,"value":"0.01",},
         {"name":"g_Distort2Speed","type":0,"value":"0.011",},
@@ -44,7 +44,7 @@
         {"name":"g_ChromaSpreadAmount","type":0,"value":"1",},
         {"name":"g_CamOffsetScale","type":0,"value":"1",},
         {"name":"g_GlintCol","type":1,"value":"#FF191919",},
-        {"name":"g_TintCol","type":1,"value":"#FFFFF4E5",},
+        {"name":"g_TintCol","type":1,"value":"#FF999999",},
         {"name":"g_AddCol","type":1,"value":"#FF331900",},
         {"name":"g_DistortTexture","type":2,"value":"_filter_underwater_noise_sprite",},
       ],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"portada","path":"sprites/portada/portada.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
