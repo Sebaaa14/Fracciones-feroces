@@ -36,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
     "PackageType":"Demo",
     "PackageName":"Little Town GML Template",
     "PackageID":"com.yoyogames.littletowngmltemplate",
@@ -105,6 +105,9 @@
     {"id":{"name":"snd_townAmbience","path":"sounds/snd_townAmbience/snd_townAmbience.yy",},},
     {"id":{"name":"snd_townBGM","path":"sounds/snd_townBGM/snd_townBGM.yy",},},
     {"id":{"name":"boton_start","path":"sprites/boton_start/boton_start.yy",},},
+    {"id":{"name":"obj_casaladrillera","path":"sprites/obj_casaladrillera/obj_casaladrillera.yy",},},
+    {"id":{"name":"obj_casamadera","path":"sprites/obj_casamadera/obj_casamadera.yy",},},
+    {"id":{"name":"obj_casapajera","path":"sprites/obj_casapajera/obj_casapajera.yy",},},
     {"id":{"name":"portada","path":"sprites/portada/portada.yy",},},
     {"id":{"name":"press_enter","path":"sprites/press_enter/press_enter.yy",},},
     {"id":{"name":"spr_baker_angry","path":"sprites/spr_baker_angry/spr_baker_angry.yy",},},
