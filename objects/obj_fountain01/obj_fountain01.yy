@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_fountain01",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_par_environment","path":"objects/obj_par_environment/obj_par_environment.yy",},"propertyId":{"name":"useSound","path":"objects/obj_par_environment/obj_par_environment.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"snd_fountain",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_par_environment","path":"objects/obj_par_environment/obj_par_environment.yy",},"propertyId":{"name":"useSound","path":"objects/obj_par_environment/obj_par_environment.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"snd_fountain",},
   ],
   "parent":{
     "name":"Town Details",
