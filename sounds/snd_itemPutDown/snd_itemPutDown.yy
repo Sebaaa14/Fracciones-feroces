@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.345839,
+  "duration":0.340839,
   "name":"snd_itemPutDown",
   "parent":{
     "name":"Sounds",

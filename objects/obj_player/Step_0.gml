@@ -4,16 +4,12 @@
 if (global.playerControl == true)
 {
 	moveRight = keyboard_check(vk_right);
-	moveUp = keyboard_check(vk_up);
 	moveLeft = keyboard_check(vk_left);
-	moveDown = keyboard_check(vk_down);
 }
 if (global.playerControl == false)
 {
 	moveRight = 0;
-	moveUp = 0;
 	moveLeft = 0;
-	moveDown = 0;
 }
 	
 // Run with Shift key

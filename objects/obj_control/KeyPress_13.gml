@@ -7,6 +7,6 @@ if (room == rm_mainTitle)
 	{
 		audio_stop_all();
 		global.gameStart = true;
-		room_goto(rm_gameMain);
+		room_goto(rm_preguntas);
 	}
 }

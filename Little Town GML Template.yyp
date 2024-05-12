@@ -36,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
     "PackageType":"Demo",
     "PackageName":"Little Town GML Template",
     "PackageID":"com.yoyogames.littletowngmltemplate",
@@ -74,6 +74,8 @@
     {"id":{"name":"obj_tree01","path":"objects/obj_tree01/obj_tree01.yy",},},
     {"id":{"name":"rm_gameMain","path":"rooms/rm_gameMain/rm_gameMain.yy",},},
     {"id":{"name":"rm_mainTitle","path":"rooms/rm_mainTitle/rm_mainTitle.yy",},},
+    {"id":{"name":"rm_preguntas","path":"rooms/rm_preguntas/rm_preguntas.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"scr_gameControl","path":"scripts/scr_gameControl/scr_gameControl.yy",},},
     {"id":{"name":"scr_itemControl","path":"scripts/scr_itemControl/scr_itemControl.yy",},},
     {"id":{"name":"scr_promptControl","path":"scripts/scr_promptControl/scr_promptControl.yy",},},
@@ -188,8 +190,11 @@
     {"id":{"name":"spr_tree01","path":"sprites/spr_tree01/spr_tree01.yy",},},
     {"id":{"name":"Sprite86","path":"sprites/Sprite86/Sprite86.yy",},},
     {"id":{"name":"Sprite87","path":"sprites/Sprite87/Sprite87.yy",},},
+    {"id":{"name":"Sprite90","path":"sprites/Sprite90/Sprite90.yy",},},
+    {"id":{"name":"suelo","path":"sprites/suelo/suelo.yy",},},
     {"id":{"name":"title_main","path":"sprites/title_main/title_main.yy",},},
     {"id":{"name":"title_main3","path":"sprites/title_main3/title_main3.yy",},},
+    {"id":{"name":"vof","path":"sprites/vof/vof.yy",},},
     {"id":{"name":"tiles_town","path":"tilesets/tiles_town/tiles_town.yy",},},
   ],
   "resourceType":"GMProject",
@@ -197,6 +202,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_mainTitle","path":"rooms/rm_mainTitle/rm_mainTitle.yy",},},
     {"roomId":{"name":"rm_gameMain","path":"rooms/rm_gameMain/rm_gameMain.yy",},},
+    {"roomId":{"name":"rm_preguntas","path":"rooms/rm_preguntas/rm_preguntas.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

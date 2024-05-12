@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.216583,
+  "duration":1.211583,
   "name":"snd_greeting01",
   "parent":{
     "name":"Sounds",

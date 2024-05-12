@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":8.30466,
+  "duration":8.29966,
   "name":"snd_gameOver",
   "parent":{
     "name":"Sounds",
