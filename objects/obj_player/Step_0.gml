@@ -193,6 +193,13 @@ if (myState == playerState.puttingDown)
 	}
 }
 
+//Aqui se cambia la pantalla
+if (place_meeting(x, y, inst_478004F0)) {
+    // Cambiar la pantalla del juego
+    room_goto(rm_preguntas);
+}
+
+
 // Auto-choose Sprite based on state and direction
 sprite_index = playerSpr[myState][dir];
 
