@@ -1,24 +1,24 @@
 {
   "$GMRoom":"",
-  "%Name":"rm_preguntas",
-  "creationCodeFile":"rooms/rm_preguntas/RoomCreationCode.gml",
+  "%Name":"rm_preguntas2",
+  "creationCodeFile":"rooms/rm_preguntas2/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_4B5ED86","path":"rooms/rm_preguntas/rm_preguntas.yy",},
+    {"name":"inst_391751E4","path":"rooms/rm_preguntas2/rm_preguntas2.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRAssetLayer":"","%Name":"Sprites","assets":[
-        {"$GMRSpriteGraphic":"","%Name":"graphic_47CDAB0E","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_47CDAB0E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.7588934,"scaleY":1.5630498,"spriteId":{"name":"spr_lobo_front","path":"sprites/spr_lobo_front/spr_lobo_front.yy",},"x":32.0,"y":480.0,},
+        {"$GMRSpriteGraphic":"","%Name":"graphic_47CDAB0E_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_47CDAB0E_1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.7588934,"scaleY":1.5630498,"spriteId":{"name":"spr_lobo_front","path":"sprites/spr_lobo_front/spr_lobo_front.yy",},"x":32.0,"y":480.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Sprites","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"","%Name":"inst_4B5ED86","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4B5ED86","objectId":{"name":"obj_preguntas","path":"objects/obj_preguntas/obj_preguntas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":21.0,"scaleY":15.0,"x":768.0,"y":224.0,},
+        {"$GMRInstance":"","%Name":"inst_391751E4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_391751E4","objectId":{"name":"obj_preguntas2","path":"objects/obj_preguntas2/obj_preguntas2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":23.0,"scaleY":15.0,"x":832.0,"y":224.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"vof","path":"sprites/vof/vof.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_preguntas",
+  "name":"rm_preguntas2",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",

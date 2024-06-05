@@ -3,6 +3,7 @@
 // Depth sorting
 depth =-y;
 
+
 // Manage emitter sound for Sequences
 if (myEmitter != -1 && useSound != noone && audio_is_playing(useSound))
 {
