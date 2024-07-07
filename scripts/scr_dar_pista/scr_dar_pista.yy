@@ -1,9 +1,9 @@
 {
   "$GMScript":"",
-  "%Name":"scr_gameControl",
+  "%Name":"scr_dar_pista",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_gameControl",
+  "name":"scr_dar_pista",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"scr_promptControl",
   "isCompatibility":false,
   "isDnD":false,
