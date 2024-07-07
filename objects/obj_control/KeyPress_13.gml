@@ -1,5 +1,6 @@
 /// @description Proceed to gameplay
-
+global.control=0;
+global.id_jugador=" ";
 // Press Enter to play
 if (room == rm_mainTitle)
 {

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hide_alternatives",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hide_alternatives",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
