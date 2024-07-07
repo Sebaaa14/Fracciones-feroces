@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_dar_pista",
   "isCompatibility":false,
   "isDnD":false,

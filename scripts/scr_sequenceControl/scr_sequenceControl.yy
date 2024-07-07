@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_sequenceControl",
   "isCompatibility":false,
   "isDnD":false,

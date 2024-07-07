@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_item01",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_par_item","path":"objects/obj_par_item/obj_par_item.yy",},"propertyId":{"name":"itemName","path":"objects/obj_par_item/obj_par_item.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Rolling Pin\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_par_item","path":"objects/obj_par_item/obj_par_item.yy",},"propertyId":{"name":"itemName","path":"objects/obj_par_item/obj_par_item.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Rolling Pin\"",},
   ],
   "parent":{
     "name":"Items",

@@ -139,7 +139,7 @@ if nearbyNPC
 	{
 		npcPrompt = scr_showPrompt(nearbyNPC,nearbyNPC.x,nearbyNPC.y-450);
 	}
-	show_debug_message("obj_player has found an NPC!");
+	
 }
 if !nearbyNPC
 {
@@ -150,7 +150,6 @@ if !nearbyNPC
 	}
 	// Get rid of prompt
 	scr_dismissPrompt(npcPrompt,0);
-	show_debug_message("obj_player hasn't found anything");
 }
 	
 // Check for collision with Items
@@ -160,7 +159,7 @@ if (nearbyItem && !nearbyNPC)
 	// Pop up prompt
 	if (itemPrompt == noone || itemPrompt == undefined)
 	{
-		show_debug_message("obj_player has found an item!");
+
 		itemPrompt = scr_showPrompt(nearbyItem,nearbyItem.x,nearbyItem.y-300);
 	}
 }
@@ -194,9 +193,15 @@ if (myState == playerState.puttingDown)
 }
 
 //Aqui se cambia la pantalla
-if (place_meeting(x, y, inst_478004F0)) {
+if (place_meeting(x, y, inst_478004F0)&& global.cont_nivel=0 ) {
     // Cambiar la pantalla del juego
     room_goto(rm_preguntas);
+} else if (place_meeting(x, y, inst_181E0A95)&& global.cont_nivel=1 ) {
+    // Cambiar la pantalla del juego
+    room_goto(rm_preguntas2);
+}else if (place_meeting(x, y, inst_478004F0_1_1)&& global.cont_nivel=2 ) {
+    // Cambiar la pantalla del juego
+    room_goto(rm_preguntas3);
 }
 
 

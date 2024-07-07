@@ -8,7 +8,8 @@ function dar_pista(_pregunta) {
     }
 
     var _pista = "";
-
+	
+	
     switch(_pregunta) {
         case "¿Cuál es el numerador en la fracción 3/5?":
             _pista = "El numerador es el número de arriba en una fracción.";

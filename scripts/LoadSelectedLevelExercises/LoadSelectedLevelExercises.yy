@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"LoadSelectedLevelExercises",
   "isCompatibility":false,
   "isDnD":false,

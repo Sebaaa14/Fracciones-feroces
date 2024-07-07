@@ -3,15 +3,9 @@ draw_self();
 var _escala_x;
 var _escala_y;
 
-if(global.cont_nivel == 3)
-{
 	_escala_x = 1.5;
-	_escala_y = 1.3;
-}else
-{
-	_escala_x = 2;
-	_escala_y = 2;
-}
+	_escala_y = 1.5;
+
 
 // Se dibuja el enunciado sobre el board
 if(global.cont_pregunta < 4)
