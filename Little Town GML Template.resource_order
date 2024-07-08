@@ -3,6 +3,7 @@
     {"name":"Levels","order":23,"path":"folders/Objects/Levels.yy",},
     {"name":"No visibles","order":22,"path":"folders/Objects/No visibles.yy",},
     {"name":"Alternativas","order":11,"path":"folders/Sprites/Alternativas.yy",},
+    {"name":"Vida","order":12,"path":"folders/Sprites/Vida.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Readme","order":14,"path":"notes/Readme/Readme.yy",},
@@ -41,6 +42,7 @@
     {"name":"obj_store01","order":5,"path":"objects/obj_store01/obj_store01.yy",},
     {"name":"obj_textbox","order":1,"path":"objects/obj_textbox/obj_textbox.yy",},
     {"name":"obj_tree01","order":2,"path":"objects/obj_tree01/obj_tree01.yy",},
+    {"name":"obj_vidas","order":24,"path":"objects/obj_vidas/obj_vidas.yy",},
     {"name":"rm_level2","order":3,"path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"rm_level3","order":4,"path":"rooms/rm_level3/rm_level3.yy",},
     {"name":"rm_mainTitle","order":1,"path":"rooms/rm_mainTitle/rm_mainTitle.yy",},

@@ -33,6 +33,7 @@
     {"$GMFolder":"","%Name":"Sequences","folderPath":"folders/Sprites/Sequences.yy","name":"Sequences","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Town Background","folderPath":"folders/Sprites/Town Background.yy","name":"Town Background","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"User Interface","folderPath":"folders/Sprites/User Interface.yy","name":"User Interface","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Vida","folderPath":"folders/Sprites/Vida.yy","name":"Vida","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
@@ -41,7 +42,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.2.0.132",
     "PackageType":"Demo",
     "PackageName":"Little Town GML Template",
     "PackageID":"com.yoyogames.littletowngmltemplate",
@@ -94,6 +95,7 @@
     {"id":{"name":"obj_store01","path":"objects/obj_store01/obj_store01.yy",},},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},},
     {"id":{"name":"obj_tree01","path":"objects/obj_tree01/obj_tree01.yy",},},
+    {"id":{"name":"obj_vidas","path":"objects/obj_vidas/obj_vidas.yy",},},
     {"id":{"name":"rm_gameMain","path":"rooms/rm_gameMain/rm_gameMain.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"id":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
@@ -230,6 +232,7 @@
     {"id":{"name":"spr_title_youDidIt","path":"sprites/spr_title_youDidIt/spr_title_youDidIt.yy",},},
     {"id":{"name":"spr_townTiles","path":"sprites/spr_townTiles/spr_townTiles.yy",},},
     {"id":{"name":"spr_tree01","path":"sprites/spr_tree01/spr_tree01.yy",},},
+    {"id":{"name":"sprVida","path":"sprites/sprVida/sprVida.yy",},},
     {"id":{"name":"Sprite86","path":"sprites/Sprite86/Sprite86.yy",},},
     {"id":{"name":"Sprite87","path":"sprites/Sprite87/Sprite87.yy",},},
     {"id":{"name":"Sprite90","path":"sprites/Sprite90/Sprite90.yy",},},

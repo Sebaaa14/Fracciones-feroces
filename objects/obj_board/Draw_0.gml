@@ -1,4 +1,11 @@
+// obtener enunciado preguntas
+
+	global.enunciado_value = ds_grid_get(global.selected_exercises,1,global.cont_pregunta);
+
+	//show_debug_message("ENUNCIADO" + global.enunciado_value);
+
 draw_self();
+
 
 var _escala_x;
 var _escala_y;
@@ -40,6 +47,5 @@ if(global.cont_pregunta < 4)
 		1
 	);
 	global.pregunta = ds_grid_get(global.selected_exercises,1,global.cont_pregunta);
-	//show_message(global.pregunta);
-	
+	//show_message(global.pregunta);	
 }

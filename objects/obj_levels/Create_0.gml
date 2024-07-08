@@ -10,8 +10,12 @@ global.cont_puntaje_nivel = 0;
 // contador pregunta nivel
 global.cont_pregunta = 0;
 
+// contador preguntas incorrectas por nivel
+global.cont_incorrectas = 0;
+
+
+
 // se resetan los marcadores de alternativas
 global.alternativa_correcta = 0;
 global.es_correcta = 0;
 global.alternativa_seleccionada = 0;
-

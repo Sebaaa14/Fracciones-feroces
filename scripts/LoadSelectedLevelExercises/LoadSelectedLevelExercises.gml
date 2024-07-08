@@ -53,7 +53,7 @@ function load_selected_level_exercises(){
 		ds_grid_set(global.selected_exercises, 6, _i, alt_correcta);
 		
 		//show_debug_message(string(_i));
-		show_debug_message(ds_grid_get(global.selected_exercises, 1, _i));
+		//show_debug_message(ds_grid_get(global.selected_exercises, 1, _i));
 		
 	}
 	
