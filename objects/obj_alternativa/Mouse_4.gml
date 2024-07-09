@@ -33,7 +33,7 @@ if(position_meeting(mouse_x, mouse_y, obj_alternativa_a))
     {
         global.es_correcta = 1;
         global.cont_incorrectas += 1;
-        show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
+        //show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
     }
     global.alternativa_contenido = a_value;
 }
@@ -54,7 +54,7 @@ if(position_meeting(mouse_x, mouse_y, obj_alternativa_b))
     {
         global.es_correcta = 1;
         global.cont_incorrectas += 1;
-        show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
+        //show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
     }
     global.alternativa_contenido = b_value;
 }
@@ -75,7 +75,7 @@ if(position_meeting(mouse_x, mouse_y, obj_alternativa_c))
     {
         global.es_correcta = 1;
         global.cont_incorrectas += 1;
-        show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
+        //show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
     }
     global.alternativa_contenido = c_value;
 }
@@ -96,7 +96,7 @@ if(position_meeting(mouse_x, mouse_y, obj_alternativa_d))
     {
         global.es_correcta = 1;
         global.cont_incorrectas += 1;
-        show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
+        //show_debug_message("NUMERO DE INCORRECTAS: " + string(global.cont_incorrectas));
     }
     global.alternativa_contenido = d_value;
 }
