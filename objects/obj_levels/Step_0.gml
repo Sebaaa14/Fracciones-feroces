@@ -8,7 +8,7 @@ if(global.es_correcta == 1 or global.es_correcta == 2)
 if(global.cont_pregunta == 4 && global.cont_nivel = 1)
 {
 	global.cont_puntaje_total+=global.cont_puntaje_nivel;
-	room_goto(rm_level2);
+	room_goto(rm_nivel_superado1);
 } else if(global.cont_pregunta == 4 && global.cont_nivel = 2)
 {
 	global.cont_puntaje_total+=global.cont_puntaje_nivel;

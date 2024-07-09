@@ -11,39 +11,27 @@ id,enunciado,alternativa_a,alternativa_b,alternativa_c,alternativa_d,alternativa
 10,Cual es el denominador de la fraccion 2/9,7,2,9,11,9,1
 11,Cual es una fraccion impropia,8/9,7/6,2/3,4/5,7/6,1
 12,Cual es la fraccion decimal equivalente a 5/6 con denominador 9,7/9,8/9,7.5/9,8.5/9,7.5/9,1
-13,Cual de las siguientes fracciones es equivalente a 7/8,14/16,12/13,16/17,15/16,14/16,1
 14,Cual es la fraccion decimal equivalente a 3/8,0.35,0.37,0.375,0.39,0.375,1
 15,Cual es la fraccion propia,7/7,5/8,2/1,4/3,5/8,1
 16,Cual de las siguientes es una fraccion impropia,3/8,8/9,3/1,3/4,3/1,1
-17,Que fraccion es mayor: 3/4 o 5/6,3/4,5/6,Son iguales,No se pueden comparar,3/4,2
 18,Convierte 2/5 a su forma decimal,0.2,0.4,0.5,0.6,0.4,2
 19,Que fraccion es equivalente a 0.6,3/5,3/10,6/10,3/10,6/10,2
-20,Como se compara 4/7 y 5/8,4/7 es mayor,5/8 es mayor,Son iguales,No se pueden comparar,4/7 es mayor,2
 21,Cual es la fraccion equivalente a 4/5,0.6,0.7,0.75,0.8,0.75,2
-22,Convierte 0.75 a su forma fraccionaria en su minima expresion,2/3,6/8,75/100,15/20,15/20,2
-23,Cual es mayor: 0.5 o 3/4,0.5,3/4,Son iguales,No se pueden comparar,3/4,2
 24,Convierte 3/10 a su forma decimal,0.3,0.33,0.1,0.11,0.3,2
-25,Como se compara 2/3 y 0.7,2/3 es mayor,0.7 es mayor,Son iguales,No son comparables,2/3 es mayor,2
 26,Cual es la fraccion equivalente a 0.25,1/4,2/5,3/4,3/8,1/4,2
 27,Convierte 7/8 a su forma decimal,0.75,0.8,0.87,0.875,0.875,2
 28,Que fraccion es equivalente a 0.3333,1/3,2/3,3/10,33/100,1/3,2
 29,Cual es la fraccion equivalente a 2/5,0.2,0.3,0.4,0.5,0.4,2
-30,Convierte 0.375 a su forma fraccionaria en su minima expresion,2/7,3/8,3/5,37/100,3/8,2
 31,Convierte 2/7 a su forma decimal,0.185,0.235,0.285,0.325,0.285,2
 32,Cual es la fraccion equivalente a 0.55,10/18,11/20,6.5/10,11/24,11/20,2
 33,Cual es la suma de 25/49 y 5/6,395/55,294/395,395/294,55/395,395/294,3
 34,Convierte 10.25 a su forma fraccionaria en su minima expresion,10 y 1/4,10 y 1/2,10 y 2/3,10 y 3/4,10 y 1/4,3
-35,Como se compara 15/16 y 0.9375,15/16 es mayor,0.9375 es mayor,Son iguales,No se pueden comparar,Son iguales,3
-36,Resuelve la ecuacion: 3/X = 15/18,X = 54/15,X = 15/54,X = 18/45,X = 45/18,X = 54/15,3
-37,Cual es mayor: 0.655 o 2/3,0.655,2/3,Son iguales,No se pueden comparar,2/3,3
 38,Convierte 0.625 a su forma fraccionaria en su minima expresion,625/1000,5/8,62/100,10/16,5/8,3
 39,Cual es la resta de 17/18 menos 1/2,1/9,4/9,7/9,16/16,4/9,3
 40,Convierte 41.2 a su forma fraccionaria en su minima expresion,41 y 1/5,41 y 1/3,41 y 1/4,41 y 1/2,41 y 1/5,3
-41,Como se compara 0.743 y 3/4,0.743 es mayor,3/4 es mayor,Son iguales,No se pueden comparar,0.743 es mayor,3
 42,Resuelve la ecuacion: 23/X = 72/100,X = 2300/72,X = 23/72,X = 72/2300,X = 72/23,X = 2300/72,3
 43,Cual es la suma de 15/18 y 7/9,29/18,18/29,22/27,27/22,29/18,3
 44,Convierte 15.65 a su forma fraccionaria en su minima expresion,15 y 1/2,15 y 6/10,15 y 13/20,15 y 3/4,15 y 13/20,3
-45,Resuelve la ecuacion: 4/X = 13/16,X = 64/13,X = 13/64,X = 48/64,X = 64/48,X = 64/13,3
 46,Convierte 0.66666 a su forma fraccionaria en su minima expresion,66/100,6/10,2/3,22/33,2/3,3
 47,Cual es la resta de 10/15 menos 2/7,8/21,8/9,9/21,9/8,8/21,3
 48,Convierte 78.125 a su forma fraccionaria en su minima expresion,78 y 125/1000,78 y 12/100,78 y 1/8,78 y 1/2,78 y 1/8,3

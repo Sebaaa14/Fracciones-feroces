@@ -6,6 +6,6 @@ if (global.pistas_usadas < global.pistas_disponibles) {
     global.pista_actual = dar_pista(global.enunciado_value); // Llama a la función dar_pista con la pregunta actual
     global.pistas_usadas++;
 } else {
-    global.pista_actual = "No tienes más pistas disponibles.";
+    global.pista_actual = "No tienes mas pistas disponibles.";
 }
 
