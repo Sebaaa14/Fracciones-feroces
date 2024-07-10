@@ -1,6 +1,6 @@
 global.main_menu = self;
 
-//window_set_fullscreen(true);
+window_set_fullscreen(true);
 
 // Cargar el banco de ejercicios desde un archivo *.csv
 global.exercises_bank = load_csv("banco_preguntas.csv");

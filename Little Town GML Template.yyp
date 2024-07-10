@@ -44,7 +44,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.6.0.157",
     "PackageType":"Demo",
     "PackageName":"Little Town GML Template",
     "PackageID":"com.yoyogames.littletowngmltemplate",
@@ -153,8 +153,8 @@
     {"id":{"name":"board_pistas","path":"sprites/board_pistas/board_pistas.yy",},},
     {"id":{"name":"board_preguntas","path":"sprites/board_preguntas/board_preguntas.yy",},},
     {"id":{"name":"boton_start","path":"sprites/boton_start/boton_start.yy",},},
-    {"id":{"name":"cerdito_triste","path":"sprites/cerdito_triste/cerdito_triste.yy",},},
     {"id":{"name":"cerditas_sexuales","path":"sprites/cerditas_sexuales/cerditas_sexuales.yy",},},
+    {"id":{"name":"cerdito_triste","path":"sprites/cerdito_triste/cerdito_triste.yy",},},
     {"id":{"name":"finalissima","path":"sprites/finalissima/finalissima.yy",},},
     {"id":{"name":"nivel_superado","path":"sprites/nivel_superado/nivel_superado.yy",},},
     {"id":{"name":"nivel_superado2","path":"sprites/nivel_superado2/nivel_superado2.yy",},},

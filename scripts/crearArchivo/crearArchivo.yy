@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"crearArchivo",
   "isCompatibility":false,
   "isDnD":false,
